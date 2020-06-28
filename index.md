@@ -10,3 +10,5 @@ Wie schon in Lucky Luke ist Rantanplan ein Wachhund in einem Staatsgefängnis. S
 * Gangway
 
 > So was, das Futter ist auf dem Dach! Das ist neu!
+
+<img src="https://vignette.wikia.nocookie.net/luckyluke/images/2/2c/Rantanplan.jpg/revision/latest/scale-to-width-down/340?cb=20130609211502&path-prefix=de"/>
