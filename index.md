@@ -8,3 +8,5 @@ Wie schon in Lucky Luke ist Rantanplan ein Wachhund in einem Staatsgefängnis. S
 * Der Inspekteur
 * Tricky Jack
 * Gangway
+
+> So was, das Futter ist auf dem Dach! Das ist neu!
